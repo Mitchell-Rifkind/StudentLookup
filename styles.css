@@ -1,0 +1,17 @@
+body {
+  margin-left: 40px;
+  margin-top: 40px;
+  background: #deeaee
+}
+table {
+  border: 1px solid black;
+  width: 50%;
+}
+td, th {
+  vertical-align: bottom;
+  text-align: left;
+  padding: 10px;
+}
+th {
+  border-bottom: 1px solid #ddd;
+}
